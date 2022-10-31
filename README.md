@@ -4,6 +4,7 @@ This is a map i created for my server. It was part of learning phase. I still am
 Just Drag and Drop HayesAuto Folder into your Maps folder and your good to go.
 
 If you do it diffrently you may have to add ensure_HayesAuto to your cfg.
+
 ![Hayes1](https://user-images.githubusercontent.com/88422603/199124707-e6205e56-ccf6-44a6-abce-ed959d7f4e46.png)
 ![hayes2](https://user-images.githubusercontent.com/88422603/199124717-10f3c4c6-db31-4c6c-b83b-09b8938aef79.png)
 ![hayes3](https://user-images.githubusercontent.com/88422603/199124728-de285ea2-c9e4-4cc0-9b4b-27f21fbe5278.png)
